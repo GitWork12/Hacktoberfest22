@@ -31,7 +31,7 @@ h3{
     color:#fff;
     font-size: 36px;
     font-weight: 700;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 .row{
     display: flex;
@@ -54,5 +54,6 @@ button{
 
 }
 button:hover{
-    color: #5C42AD;
+    color: white;
+    background-color: black;
 }
